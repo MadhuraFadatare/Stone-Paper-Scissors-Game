@@ -28,7 +28,7 @@ Restart the game anytime with a single click.
 
 ![image alt](https://github.com/MadhuraFadatare/Stone-Paper-Scissors-Game/blob/my-new-branch/Screenshot%202025-08-29%20155334.png?raw=true)
 
-https://github.com/MadhuraFadatare/Stone-Paper-Scissors-Game/blob/5ca5cc127597cb2ebdd1a9545dd6688499a517d7/Screen%20Recording%202025-08-29%20155827.mp4
+![Demo]()
 
 
 🧩 What I Learned
