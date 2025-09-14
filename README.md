@@ -20,7 +20,8 @@
 - Play again or reset anytime!
 
 📸Preview
- ![Alt text](https://github.com/MadhuraFadatare/Stone-Paper-Scissors-Game/blob/main/Screenshot%202025-09-14%20061802.png)
+ ![preview](https://github.com/MadhuraFadatare/Stone-Paper-Scissors-Game/blob/main/Screenshot%202025-09-14%20061802.png)
+ ![Watch Demo](https://github.com/MadhuraFadatare/Stone-Paper-Scissors-Game/blob/main/Screen%20Recording%202025-09-14%20061904.mp4)
 
   
 📸 Presentation Highlights
