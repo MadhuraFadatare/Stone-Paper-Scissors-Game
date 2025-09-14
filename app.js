@@ -62,8 +62,12 @@ choices.forEach((choice) => {
     playGame(userChoice);
   });
 });
-const resetGame=()=>{
-
-msg-container.classList.add("hide");
-}
-reset.addEventListener("click",resetGame);
+// Reset button logic
+reset.addEventListener("click", () => {
+  userScore = 0;
+  compScore = 0;
+  userScorePara.innerText = userScore;
+  compScorePara.innerText = compScore;
+  msg.innerText = "Scores reset. Play your move";
+  msg.style.backgroundColor = "#081b31";
+});
