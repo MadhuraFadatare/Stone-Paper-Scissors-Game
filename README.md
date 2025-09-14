@@ -19,6 +19,9 @@
 - The winner is determined and score updated
 - Play again or reset anytime!
 
+📸Preview
+ ![Alt text](https://github.com/MadhuraFadatare/Stone-Paper-Scissors-Game/blob/main/Screenshot%202025-09-14%20061802.png)
+
   
 📸 Presentation Highlights
 - Clean layout with playful icons
